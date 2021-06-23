@@ -6,7 +6,7 @@ DOS clock screensaver. Written for educational purpose.
 
 ## 1. Compile
 
-Use Borland Tubro Pascal 7.1 (EGAVGA.OBJ included)
+Use Borland Tubro Pascal 7.1 (EGAVGA.OBJ included). Clocks04.pas is the main file.
 
 ## 2. Run 
 
