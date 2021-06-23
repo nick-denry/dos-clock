@@ -1,6 +1,6 @@
-# DOS clock/screensaver
+# Turbo Pascal DOS clock/screensaver
 
-DOS clock screensaver. Written for educational purpose.
+DOS clock screensaver written with Borland Turbo Pascal for educational purposes.
 
 <img src="https://user-images.githubusercontent.com/1450983/123180223-887b6000-d493-11eb-82fd-29d9ba52b306.png" alt="screenshot" width="640" />
 
