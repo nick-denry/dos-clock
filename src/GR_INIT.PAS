@@ -23,7 +23,7 @@ implementation
   var
     graphDriver, mode, graphInitResult : Integer; {Graph related vars}
   begin
-    {registerGraphDriver;}
+    registerGraphDriver;
     graphDriver := Detect;
     InitGraph(graphDriver, mode, '');
     graphInitResult := GraphResult;
